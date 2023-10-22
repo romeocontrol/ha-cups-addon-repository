@@ -9,7 +9,7 @@ RUN apt-get update \
         avahi-daemon \
         libnss-mdns \
         dbus \
-        libcupsimage2 \ #by rt
+        libcupsimage2 \ 
         colord \
         printer-driver-all \
         printer-driver-gutenprint \
